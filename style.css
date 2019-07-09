@@ -1,0 +1,60 @@
+* {
+	text-align: center;
+}
+
+.heading {
+	font-family: Arial;
+	margin-top:23vh;
+}
+
+.URL-input, .convert-button {
+	font-size:1.3em;
+	padding:5px 10px;
+}
+.URL-input, .convert-button1 {
+	font-size:1.3em;
+	padding:5px 10px;
+}
+
+
+.URL-input {
+	border-radius: 4px 0px 0px 4px;
+    width: 30em;
+    height: 35px;
+    text-align: left;
+    border: 2px solid #EEEEEE;
+    background: #EEEEEE;
+    outline: none;
+}
+
+.URL-input:focus {
+	border:2px solid #0485ff;
+}
+.lablelink {
+	color: #0087cf;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    line-height: 44px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    height: 44px;
+    overflow: hidden;
+}
+.convert-button {
+	border-radius: 0px 4px 4px 0px;
+    /* border: 2px solid #0485ff; */
+    border: none;
+    height: 49px;
+    background: #0485ff;
+    color: white;
+}
+.convert-button1 {
+	border-radius: 0px 4px 4px 0px;
+    /* border: 2px solid #0485ff; */
+    border: none;
+    height: 49px;
+    background: #0485ff;
+    color: white;
+}
